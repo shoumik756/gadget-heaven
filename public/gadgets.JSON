@@ -1,0 +1,113 @@
+[
+    {
+      "product_id": "1",
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/1sQJmNg/Samsung-Galaxy-S21.jpg",
+      "category": "Phone",
+      "price": 799.99,
+      "description": "High-end smartphone with powerful features and sleek design.",
+      "Specification": ["8GB RAM", "128GB Storage", "4000mAh Battery", "Triple Camera"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "2",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/rZH9t5H/Dell-XPS-13.png",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "Ultra-thin laptop with excellent performance and display.",
+      "Specification": ["Intel i7", "16GB RAM", "512GB SSD", "13.4-inch Display"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "3",
+      "product_title": "OnePlus 9 Pro",
+      "product_image": "https://i.ibb.co.com/MCqFhSD/One-Plus-9-Pro.jpg",
+      "category": "Phone",
+      "price": 729.99,
+      "description": "Flagship killer with an excellent camera and fast charging.",
+      "Specification": ["12GB RAM", "256GB Storage", "4500mAh Battery", "Quad Camera"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "4",
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://i.ibb.co.com/r6QX2MP/Apple-Watch-Series-7.jpg",
+      "category": "Smart Watch",
+      "price": 399.99,
+      "description": "Smartwatch with advanced health monitoring and a larger display.",
+      "Specification": ["GPS", "Always-on Retina Display", "Water Resistant"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "5",
+      "product_title": "Xiaomi Mi 11",
+      "product_image": "https://i.ibb.co.com/qmmxLHb/Xiaomi-Mi-11.jpg",
+      "category": "Phone",
+      "price": 699.99,
+      "description": "High-performance phone with a stunning display and powerful processor.",
+      "Specification": ["8GB RAM", "256GB Storage", "4600mAh Battery", "Triple Camera"],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "6",
+      "product_title": "Sony Xperia 5 III",
+      "product_image": "https://i.ibb.co.com/f4qSFjc/Sony-Xperia-5-III1.jpg",
+      "category": "Phone",
+      "price": 899.99,
+      "description": "Premium smartphone with an advanced camera system and 5G support.",
+      "Specification": ["8GB RAM", "128GB Storage", "4500mAh Battery", "Triple Camera"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "7",
+      "product_title": "iPhone 13",
+      "product_image": "https://i.ibb.co.com/0jLd0hn/Spigen-Thin-Fit-i-Phone-13-Pro-Hybrid-Case-Black-8809811853346-24092021-01-p.jpg",
+      "category": "Phone",
+      "price": 999.99,
+      "description": "Apple's latest smartphone with improved performance and camera.",
+      "Specification": ["6GB RAM", "128GB Storage", "3240mAh Battery", "Dual Camera"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "8",
+      "product_title": "MacBook Air M1",
+      "product_image": "https://i.ibb.co.com/xXmyDsV/Mac-Book-Air-M11.jpg",
+      "category": "Laptop",
+      "price": 999.99,
+      "description": "Apple's latest MacBook Air with M1 chip for incredible performance.",
+      "Specification": ["Apple M1", "8GB RAM", "256GB SSD", "13.3-inch Retina Display"],
+      "availability": false,
+      "rating": 4.9
+    },
+    {
+      "product_id": "9",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://i.ibb.co.com/F3KsVP3/Google-Pixel-6.png",
+      "category": "Phone",
+      "price": 649.99,
+      "description": "Google's latest smartphone with AI-powered camera features.",
+      "Specification": ["8GB RAM", "128GB Storage", "4600mAh Battery", "Dual Camera"],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": "10",
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://i.ibb.co.com/bLkMhnc/Samsung-Galaxy-Watch-4-40mm-R860-1.jpg",
+      "category": "Smart Watch",
+      "price": 249.99,
+      "description": "Samsung's latest smartwatch with advanced fitness tracking.",
+      "Specification": ["GPS", "Health Monitoring", "Water Resistant", "AMOLED Display"],
+      "availability": true,
+      "rating": 4.5
+    }
+  ]
+  
